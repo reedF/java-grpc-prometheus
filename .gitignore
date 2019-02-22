@@ -5,3 +5,7 @@ bazel-*
 project.iml
 output
 *.swp
+/bin/
+/target/
+/.settings/
+/src/main/java/com/github/dinowernli/proto/grpc/prometheus
